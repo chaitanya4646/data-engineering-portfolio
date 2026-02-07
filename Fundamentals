@@ -1,0 +1,11 @@
+# Fundamentals
+
+This folder contains basic data engineering concepts that are used across all projects.
+
+## Topics Covered
+- What is data engineering
+- ETL vs ELT
+- Batch processing vs streaming
+- OLTP vs OLAP
+- Structured, semi-structured, and unstructured data
+- Data warehouse vs data lake
