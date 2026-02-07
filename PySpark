@@ -1,0 +1,14 @@
+# PySpark Notes
+
+This folder contains notes related to Apache Spark using PySpark.
+
+## Topics Covered
+- What Spark is and why it is used
+- Spark architecture (high level)
+- Driver and executor concept
+- RDD basics
+- DataFrame API
+- Transformations vs actions
+- Joins and aggregations
+- Caching and performance basics
+- Common Spark interview questions
