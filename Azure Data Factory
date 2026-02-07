@@ -1,0 +1,14 @@
+# Azure Data Factory Notes
+
+This folder contains my notes for Azure Data Factory.
+
+## Topics Covered
+- What ADF is
+- Core ADF components
+- Pipelines and activities
+- Datasets and linked services
+- Triggers (schedule and event-based)
+- Parameters and variables
+- Incremental load logic
+- Handling duplicate records
+- Common interview scenarios
