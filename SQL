@@ -1,0 +1,10 @@
+# SQL Notes
+
+This folder contains SQL notes useful for data engineering interviews.
+
+## Topics Covered
+- Inner, left, right, and full joins
+- Group by vs window functions
+- CTE
+- Subqueries
+- Basic query optimization
