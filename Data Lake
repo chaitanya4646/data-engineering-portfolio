@@ -1,0 +1,11 @@
+# Data Lake Notes
+
+This folder contains notes related to data lakes.
+
+## Topics Covered
+- What a data lake is
+- ADLS Gen2 basics
+- Containers and folder structure
+- Raw, curated, and processed layers
+- Common file formats (CSV, JSON, Parquet)
+- Partitioning basics
