@@ -1,0 +1,10 @@
+# Azure Synapse Notes
+
+This folder contains notes related to Azure Synapse Analytics.
+
+## Topics Covered
+- What Synapse is
+- Dedicated SQL pool
+- Serverless SQL pool
+- Differences between Synapse and ADF
+- When to use Synapse
