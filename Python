@@ -1,0 +1,10 @@
+# Python Notes
+
+This folder contains Python notes for data engineering use cases.
+
+## Topics Covered
+- Python basics
+- Functions and loops
+- File handling
+- Working with CSV and JSON files
+- Using Python in ETL workflows
