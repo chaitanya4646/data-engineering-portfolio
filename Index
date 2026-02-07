@@ -1,0 +1,65 @@
+# Data Engineering Notes
+
+This repository contains my personal learning notes for Data Engineering.
+I write short and clear notes while learning concepts and revise them regularly.
+
+The goal of this repository is:
+- To keep my learning structured
+- To revise concepts quickly
+- To prepare for interviews
+
+---
+
+## Contents
+
+### Fundamentals
+- What data engineering is
+- Basic data concepts used in real projects
+- Differences between common data systems
+
+### PySpark
+- Spark basics and architecture understanding
+- RDD and DataFrame concepts
+- Transformations and actions
+- Joins, aggregations, and performance basics
+
+### Azure Data Factory
+- Core ADF components
+- Pipeline and activity flow
+- Triggers and parameters
+- Incremental load logic
+- Common interview scenarios
+
+### Azure Synapse
+- Synapse basics
+- Dedicated vs Serverless SQL pool
+- When to use Synapse
+- Differences between Synapse and ADF
+
+### Data Lake
+- What a data lake is
+- ADLS Gen2 basics
+- Layered data approach (raw, curated, processed)
+- Common file formats
+
+### SQL
+- Joins
+- Window functions
+- CTE and subqueries
+- Query basics for interviews
+
+### Python
+- Python basics
+- Functions and loops
+- File handling
+- Python usage in ETL
+
+### Interview Preparation
+- Spark interview questions
+- ADF scenario questions
+- SQL questions
+- Common mistakes
+
+### Projects
+- Small practice projects
+- End-to-end data flow examples
